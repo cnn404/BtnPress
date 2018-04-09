@@ -1,0 +1,13 @@
+C:\Users\JimmyBright\Desktop\COCAuto\COCAuto\bin\Debug\COCAuto.exe
+C:\Users\JimmyBright\Desktop\COCAuto\COCAuto\bin\Debug\COCAuto.pdb
+C:\Users\JimmyBright\Desktop\COCAuto\COCAuto\obj\Debug\COCAuto.csprojResolveAssemblyReference.cache
+C:\Users\JimmyBright\Desktop\COCAuto\COCAuto\obj\Debug\MainWindow.baml
+C:\Users\JimmyBright\Desktop\COCAuto\COCAuto\obj\Debug\MainWindow.g.cs
+C:\Users\JimmyBright\Desktop\COCAuto\COCAuto\obj\Debug\App.g.cs
+C:\Users\JimmyBright\Desktop\COCAuto\COCAuto\obj\Debug\COCAuto_MarkupCompile.cache
+C:\Users\JimmyBright\Desktop\COCAuto\COCAuto\obj\Debug\COCAuto.g.resources
+C:\Users\JimmyBright\Desktop\COCAuto\COCAuto\obj\Debug\COCAuto.Properties.Resources.resources
+C:\Users\JimmyBright\Desktop\COCAuto\COCAuto\obj\Debug\COCAuto.csproj.GenerateResource.Cache
+C:\Users\JimmyBright\Desktop\COCAuto\COCAuto\obj\Debug\COCAuto.exe
+C:\Users\JimmyBright\Desktop\COCAuto\COCAuto\obj\Debug\COCAuto.pdb
+C:\Users\JimmyBright\Desktop\COCAuto\COCAuto\obj\Debug\COCAuto.Resource1.resources
